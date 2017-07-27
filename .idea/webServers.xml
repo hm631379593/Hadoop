@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="206b7f2f-3511-4c16-a4ce-eca3e9e5b8cd" name="spark" url="http://ambari-node8.cloud.sinocbd.com">
+        <fileTransfer host="ambari-node8.cloud.sinocbd.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
